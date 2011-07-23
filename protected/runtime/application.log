@@ -1,0 +1,6 @@
+2011/07/23 21:07:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
