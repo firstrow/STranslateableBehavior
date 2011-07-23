@@ -8,7 +8,7 @@
 class TranslateCommand extends CConsoleCommand 
 {
 
-	public $search_str ='application.extensions.behaviors.STranslateableBehavior';
+	public $search_str ='application.extensions.STranslateableBehavior.STranslateableBehavior';
 	public $models = array();
 	public $langs = null;
 	public $up = array();

@@ -57,7 +57,7 @@ class Content extends CActiveRecord
     public function behaviors()
     {
         return array(
-            'translate'=>'application.extensions.behaviors.STranslateableBehavior'
+            'translate'=>'application.extensions.STranslateableBehavior.STranslateableBehavior'
         );
     }
 
