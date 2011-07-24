@@ -105,5 +105,6 @@ class SiteController extends Controller
     {
         $model = Content::model()->findByPk(1); 
 		var_dump($model->content);
+		var_dump($this->createUrl('site2/test'));
     }
 }

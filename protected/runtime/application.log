@@ -4,3 +4,1161 @@ Stack trace:
 #1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
 #2 /var/www/tests/index.php(13): CApplication->run()
 #3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:10:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:11:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/test".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/test')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/test
+2011/07/24 00:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:12:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/test".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/test')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/test
+2011/07/24 00:12:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:12:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/test".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/test')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/test
+2011/07/24 00:12:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:12:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/test".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/test')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/test
+2011/07/24 00:12:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:12:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/test".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/test')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/test
+2011/07/24 00:12:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:12:55 [error] [exception.CException] exception 'CException' with message 'В классе UrlManager и его поведениях не найден метод или замыкание с именем "inittt".' in /var/www/yii1.1.8/base/CComponent.php:269
+Stack trace:
+#0 /var/www/tests/protected/components/UrlManager.php(8): CComponent->__call('inittt', Array)
+#1 /var/www/tests/protected/components/UrlManager.php(8): CUrlManager->inittt()
+#2 /var/www/yii1.1.8/base/CModule.php(372): UrlManager->init()
+#3 /var/www/yii1.1.8/base/CApplication.php(501): CModule->getComponent('urlManager')
+#4 /var/www/yii1.1.8/web/CWebApplication.php(135): CApplication->getUrlManager()
+#5 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#6 /var/www/tests/index.php(13): CApplication->run()
+#7 {main} REQUEST_URI=/en/site/test
+2011/07/24 00:12:55 [error] [exception.CException] exception 'CException' with message 'В классе UrlManager и его поведениях не найден метод или замыкание с именем "inittt".' in /var/www/yii1.1.8/base/CComponent.php:269
+Stack trace:
+#0 /var/www/tests/protected/components/UrlManager.php(8): CComponent->__call('inittt', Array)
+#1 /var/www/tests/protected/components/UrlManager.php(8): CUrlManager->inittt()
+#2 /var/www/yii1.1.8/base/CModule.php(372): UrlManager->init()
+#3 /var/www/yii1.1.8/base/CApplication.php(501): CModule->getComponent('urlManager')
+#4 /var/www/yii1.1.8/web/CWebApplication.php(135): CApplication->getUrlManager()
+#5 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#6 /var/www/tests/index.php(13): CApplication->run()
+#7 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:13:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/test".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/test')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/test
+2011/07/24 00:13:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:13:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/test".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/test')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/test
+2011/07/24 00:13:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:13:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/test".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/test')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/test
+2011/07/24 00:13:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:14:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/test".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/test')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/test
+2011/07/24 00:14:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:14:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:14:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:14:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:14:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:14:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:14:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/index".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/index')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/index
+2011/07/24 00:14:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:15:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/index".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/index')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/index
+2011/07/24 00:15:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:15:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/index".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/index')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/index
+2011/07/24 00:15:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:17:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/index".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/index')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/index
+2011/07/24 00:17:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:17:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/index".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/index')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/index
+2011/07/24 00:17:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:19:48 [error] [php] Object of class CHttpRequest could not be converted to string (/var/www/tests/protected/components/UrlManager.php:12)
+Stack trace:
+#0 /var/www/tests/index.php(13): CWebApplication->run()
+REQUEST_URI=/en/site/index
+in /var/www/tests/protected/components/UrlManager.php (12)
+in /var/www/tests/index.php (13)
+2011/07/24 00:19:48 [error] [php] Object of class CHttpRequest could not be converted to string (/var/www/tests/protected/components/UrlManager.php:12)
+Stack trace:
+#0 /var/www/tests/index.php(13): CWebApplication->run()
+REQUEST_URI=/favicon.ico
+in /var/www/tests/protected/components/UrlManager.php (12)
+in /var/www/tests/index.php (13)
+2011/07/24 00:20:50 [error] [php] Missing argument 1 for CUrlManager::parseUrl(), called in /var/www/tests/protected/components/UrlManager.php on line 12 and defined (/var/www/yii1.1.8/web/CUrlManager.php:344)
+Stack trace:
+#0 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#1 /var/www/tests/index.php(13): CWebApplication->run()
+REQUEST_URI=/en/site/index
+in /var/www/tests/protected/components/UrlManager.php (12)
+in /var/www/tests/index.php (13)
+2011/07/24 00:20:50 [error] [php] Missing argument 1 for CUrlManager::parseUrl(), called in /var/www/tests/protected/components/UrlManager.php on line 12 and defined (/var/www/yii1.1.8/web/CUrlManager.php:344)
+Stack trace:
+#0 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#1 /var/www/tests/index.php(13): CWebApplication->run()
+REQUEST_URI=/favicon.ico
+in /var/www/tests/protected/components/UrlManager.php (12)
+in /var/www/tests/index.php (13)
+2011/07/24 00:22:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/index".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/index')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/index?trolo
+2011/07/24 00:22:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "sdf/sdf/sdf".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('sdf/sdf/sdf')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/index?trolo
+2011/07/24 00:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "sdf/sdf/sdf".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('sdf/sdf/sdf')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:22:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:23:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:23:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:26:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:26:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:26:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:26:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:27:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:27:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:27:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:27:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:27:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:27:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:27:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:28:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:28:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:28:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/contact".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/contact')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/contact
+2011/07/24 00:28:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:28:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/page".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/page')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/page?view=about
+2011/07/24 00:28:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:28:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/page".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/page')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/page?view=about
+2011/07/24 00:28:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:30:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/page".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/page')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/page?view=about
+2011/07/24 00:30:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:30:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/page".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/page')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/page?view=about
+2011/07/24 00:30:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:30:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "en/site/page".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/page')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/page?view=about
+2011/07/24 00:30:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:33:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:33:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:33:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:33:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:33:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:42:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:42:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:43:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:43:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:43:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:44:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:44:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:45:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "en/site/test".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/test')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/test
+2011/07/24 00:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "en/site/test".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('en/site/test')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/en/site/test
+2011/07/24 00:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:46:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:46:41 [error] [php] implode() [<a href='function.implode'>function.implode</a>]: Argument must be an array (/var/www/tests/protected/components/UrlManager.php:23)
+Stack trace:
+#0 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#1 /var/www/tests/index.php(13): CWebApplication->run()
+REQUEST_URI=/en/site/test
+in /var/www/tests/protected/components/UrlManager.php (23)
+in /var/www/tests/index.php (13)
+2011/07/24 00:46:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:46:42 [error] [php] implode() [<a href='function.implode'>function.implode</a>]: Argument must be an array (/var/www/tests/protected/components/UrlManager.php:23)
+Stack trace:
+#0 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#1 /var/www/tests/index.php(13): CWebApplication->run()
+REQUEST_URI=/en/site/test
+in /var/www/tests/protected/components/UrlManager.php (23)
+in /var/www/tests/index.php (13)
+2011/07/24 00:46:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:46:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:47:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:47:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:47:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:47:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:47:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:47:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:47:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:47:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:48:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:48:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:48:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:48:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:48:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:49:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:49:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:49:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:51:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:51:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:51:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:51:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:51:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:51:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "df/site/test".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('df/site/test')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/df/site/test
+2011/07/24 00:51:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:51:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "rm/site/login".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('rm/site/login')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/rm/site/login
+2011/07/24 00:53:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "ru".' in /var/www/yii1.1.8/web/CController.php:477
+Stack trace:
+#0 /var/www/yii1.1.8/web/CController.php(262): CController->missingAction('ru')
+#1 /var/www/yii1.1.8/web/CWebApplication.php(277): CController->run('ru')
+#2 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('site/ru/site/ca...')
+#3 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/tests/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/ru/site/ru/site/captcha?v=4e2b42f1922aa
+2011/07/24 00:53:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:53:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "ru".' in /var/www/yii1.1.8/web/CController.php:477
+Stack trace:
+#0 /var/www/yii1.1.8/web/CController.php(262): CController->missingAction('ru')
+#1 /var/www/yii1.1.8/web/CWebApplication.php(277): CController->run('ru')
+#2 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('site/ru/site/ca...')
+#3 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/tests/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/ru/site/ru/site/captcha?refresh=1&_=1311458036581
+2011/07/24 00:54:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "ru".' in /var/www/yii1.1.8/web/CController.php:477
+Stack trace:
+#0 /var/www/yii1.1.8/web/CController.php(262): CController->missingAction('ru')
+#1 /var/www/yii1.1.8/web/CWebApplication.php(277): CController->run('ru')
+#2 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('site/ru/site/ca...')
+#3 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/tests/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/ru/site/ru/site/captcha?v=4e2b42f1922aa
+2011/07/24 00:54:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:54:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:54:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:54:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "ru".' in /var/www/yii1.1.8/web/CController.php:477
+Stack trace:
+#0 /var/www/yii1.1.8/web/CController.php(262): CController->missingAction('ru')
+#1 /var/www/yii1.1.8/web/CWebApplication.php(277): CController->run('ru')
+#2 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('site/ru/site/ca...')
+#3 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/tests/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/ru/site/ru/site/captcha?v=4e2b42f1922aa
+2011/07/24 00:54:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:54:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "ru".' in /var/www/yii1.1.8/web/CController.php:477
+Stack trace:
+#0 /var/www/yii1.1.8/web/CController.php(262): CController->missingAction('ru')
+#1 /var/www/yii1.1.8/web/CWebApplication.php(277): CController->run('ru')
+#2 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('site/ru/site/ca...')
+#3 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/tests/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/ru/site/ru/site/captcha?v=4e2b42f1922aa
+2011/07/24 00:54:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:54:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "ru".' in /var/www/yii1.1.8/web/CController.php:477
+Stack trace:
+#0 /var/www/yii1.1.8/web/CController.php(262): CController->missingAction('ru')
+#1 /var/www/yii1.1.8/web/CWebApplication.php(277): CController->run('ru')
+#2 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('site/ru/site/ca...')
+#3 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/tests/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/ru/site/ru/site/captcha?v=4e2b4324a6f68
+2011/07/24 00:54:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:54:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/07/24 00:55:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /var/www/yii1.1.8/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/yii1.1.8/web/CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii1.1.8/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/tests/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
