@@ -9,7 +9,7 @@ return array(
 	'name'=>'My Web Application',	
 	// preloading 'log' component
 	'preload'=>array('log'),
-	'sourceLanguage'=>'en',
+	'sourceLanguage'=>'ru',
 	'language'=>'ru',
 	// autoloading model and component classes
 	'import'=>array(

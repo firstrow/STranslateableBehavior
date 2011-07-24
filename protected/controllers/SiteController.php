@@ -71,6 +71,7 @@ class SiteController extends Controller
 	 */
 	public function actionLogin()
 	{
+		echo Yii::t('main', 'Авторизация');
 		$model=new LoginForm;
 
 		// if it is ajax validation request
@@ -103,6 +104,8 @@ class SiteController extends Controller
 
     public function actionTest()
     {
+		Yii::app()->language = 'en';
+		echo Yii::t("main", "Тест переводов");
         $model = Content::model()->findByPk(1); 
 		var_dump($model->content);
 		var_dump($this->createUrl('site2/test'));
