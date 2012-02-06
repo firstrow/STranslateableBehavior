@@ -108,7 +108,7 @@ class TranslateCommand extends CConsoleCommand
 	protected function _loadLanguages()
 	{
 		// Load main.php config file
-		$file = realpath(dirname(__FILE__).'/../config/main.php');
+		$file = realpath(Yii::app()->basePath.'/config/main.php');
 		if (!file_exists($file))
 			exit("Error loading config file main.php.\n");
 		else
@@ -143,7 +143,7 @@ $phpCode = '<?php
 		}
 	}'."\n";
 
-		$migrationFile = realpath(dirname(__FILE__).'/../migrations').'/'.$migrationName.'.php';
+		$migrationFile = realpath(Yii::app()->basePath.'/migrations').'/'.$migrationName.'.php';
 		$f = fopen($migrationFile, 'w') or die("Can't open file");
 		fwrite($f, $phpCode);
 		fclose($f);
