@@ -39,6 +39,8 @@ class TranslateCommand extends CConsoleCommand
 		if (sizeof($this->models) > 0)
 		{
 			$this->_createMigration();
+		} else {
+			echo "Found no models with a translate() method";
 		}
 	}
 
