@@ -152,7 +152,7 @@ $phpCode = '<?php
 
 		print "Migration successfully created.\n";	
 		print "See $migrationName\n";
-		print "To apply migration enter: ./yiic migration\n";
+		print "To apply migration enter: ./yiic migrate\n";
 	}
 
 }
